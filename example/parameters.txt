@@ -1,0 +1,5 @@
+datadirectory	.
+datasetname	elect
+metainformation	meta_information.json
+modelconfig	model_config.json
+trainconfig	train_config.json
